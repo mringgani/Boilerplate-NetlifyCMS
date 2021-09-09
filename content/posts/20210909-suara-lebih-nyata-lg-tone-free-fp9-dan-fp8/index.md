@@ -10,7 +10,7 @@ description: Perusahaan asal korea selatan yang sukses dengan berbagai produk
   Stereo.
 tags:
   - Teknologi
-image: blob:https://bloggerpalembang.my.id/90d9a455-f5db-4806-a173-54e24665f34a
+image: https://i.ibb.co/vYQSJYH/Suara-Lebih-Nyata-LG-TONE-Free-FP9-Dan-FP8.jpg
 ---
 # Suara Lebih Nyata LG TONE Free FP9 Dan FP8
 
