@@ -46,9 +46,9 @@ const Navigation = props => (
         <Link
           className="nav-link"
           activeClassName="nav-link active"
-          to="https://hnn.neocities.org"
+          to="https://brajag.netlify.app/type-approval-indonesia/"
         >
-          Hari AN
+          Type Approval Indonesia
         </Link>
       </Nav>
     </Navbar.Collapse>
