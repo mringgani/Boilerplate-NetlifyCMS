@@ -43,13 +43,6 @@ const Navigation = props => (
         >
           Terms and Conditions
         </Link>
-        <Link
-          className="nav-link"
-          activeClassName="nav-link active"
-          to="https://brajag.netlify.app/type-approval-indonesia/"
-        >
-          Type Approval Indonesia
-        </Link>
       </Nav>
     </Navbar.Collapse>
   </Navbar>
